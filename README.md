@@ -1,4 +1,3 @@
-### **E ai?** 😝
 
 <div>
   <a href="https://github.com/mivstcnlg">
