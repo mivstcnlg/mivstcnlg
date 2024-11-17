@@ -19,9 +19,10 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
   ![Fic](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=SenaiApp-Fic&theme=rose&width=304&height=166)
 
 <details>
-
 <summary>
-    🍑 TECH STACK ˊˎ-.
+  <h3>
+   🍑 TECH STACK ˊˎ-.
+  </h3>
 </summary>
 </br>
 
@@ -38,7 +39,11 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 
 
 <details>
-  <summary> 🍑 SOME OTHER FACTS ABOUT ME </summary>
+  <summary> 
+    <h3>
+      🍑 SOME OTHER FACTS ABOUT ME
+    </h3>
+  </summary>
   <br>
 
   - Before pursuing IT, I wanted to study Geophysics. 🌎 
