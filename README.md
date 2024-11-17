@@ -11,12 +11,6 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 
   ![mivstcnlg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mivstcnlg&theme=rose&layout=compact)
   <img src="/assets/images/computer.gif" width="306px" height="166px" margin-left="50px">
-  
-## 🍑  **here are my main repositories:**
-  ![Fada dos Cilios](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=fada-dos-cilios&theme=rose&width=306&height=166)
-  ![Clone Tesla](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=CloneUITesla&theme=rose&width=306&height=166)
-  ![ChamaChurras](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=chama-churras&theme=rose&width=306&height=166)
-  ![Fic](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=SenaiApp-Fic&theme=rose&width=304&height=166)
 
 <details>
 <summary>
