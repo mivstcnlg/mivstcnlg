@@ -14,9 +14,7 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 
 <details>
 <summary>
-  <h3>
    🍑 TECH STACK ˊˎ-.
-  </h3>
 </summary>
 </br>
 
@@ -34,9 +32,7 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 
 <details>
   <summary> 
-    <h3>
-      🍑 SOME OTHER FACTS ABOUT ME
-    </h3>
+  🍑 SOME OTHER FACTS ABOUT ME
   </summary>
   <br>
 
