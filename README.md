@@ -8,9 +8,7 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 🌺 Next steps: Deepening my knowledge in UX/UI Design. </br>
 
 </br>
-
-  ![mivstcnlg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mivstcnlg&theme=rose&layout=compact)
-  <img src="/assets/images/computer.gif" width="306px" height="166px" margin-left="50px">
+  <img src="/assets/images/computer.gif" width="306px" height="166px" align="right">
 
 <details>
 <summary>
