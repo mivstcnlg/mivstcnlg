@@ -1,4 +1,4 @@
-#Hi, i'm Emelly!
+# Hi, i'm Emelly!
 
 Welcome to my tech world, haha! Here’s a list of things about my professional life:
 
