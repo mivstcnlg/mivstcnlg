@@ -1,16 +1,27 @@
-# Hi, i'm Emelly!
+# hi, i'm emelly!
 
 Welcome to my tech world, haha! Here’s a list of things about my professional life:
 
-↗️ Portfolio Management Intern</br>
-↗️ My primary focus is **IT Governance**, but I enjoy dabbling in Front-End development from time to time. </br>
-↗️ Currently pursuing a degree in Computer Science. </br>
-↗️ Next steps: Deepening my knowledge in UX/UI Design. </br>
+🌺 Portfolio Management Intern</br>
+🌺 My primary focus is **IT Governance**, but I enjoy dabbling in Front-End development from time to time. </br>
+🌺 Currently pursuing a degree in Computer Science. </br>
+🌺 Next steps: Deepening my knowledge in UX/UI Design. </br>
+
+</br>
+
+  ![mivstcnlg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mivstcnlg&theme=rose&layout=compact)
+  <img src="/assets/images/computer.gif">
+  
+## 🍑  **here are my main repositories:**
+  ![Fada dos Cilios](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=fada-dos-cilios&theme=rose)
+  ![Clone Tesla](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=CloneUITesla&theme=rose)
+  ![ChamaChurras](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=chama-churras&theme=rose)
+  ![Fic](https://github-readme-stats.vercel.app/api/pin/?username=mivstcnlg&repo=SenaiApp-Fic&theme=rose)
 
 <details>
 
 <summary>
-<span style="color: #fe2f5b; font-weight: bold;">TECH STACK</span>
+    .-ˏˋ TECH STACK ˊˎ-.
 </summary>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,13 +37,12 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 
 
 <details>
-  <summary>Some other facts about me: </summary>
+  <summary>SOME OTHER FACTS ABOUT ME </summary>
   <br>
 
   - Before pursuing IT, I wanted to study Geophysics. 🌎 
-  - I create playlists as a hobby. You can check them out here ↗️ **[mi sales's spotify](https://open.spotify.com/user/xo7cibfjd2a9lop8isfec9q0n).** 
+  - I create playlists as a hobby. You can check them out here 🎧 **[mi sales's spotify](https://open.spotify.com/user/xo7cibfjd2a9lop8isfec9q0n).** 
   - I absolutely love doing makeup. 🎀
 
-My stats:
-  ![mivstcnlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mivstcnlg&show_icons=true&theme=neon&hide_rank=true)<br/>
+
 </details>
