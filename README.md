@@ -2,7 +2,7 @@
 
 Welcome to my tech world, haha! Here’s a list of things about my professional life:
 
-🌺 Portfolio Management Intern</br>
+🌺 I'm a Portfolio Management intern at Braskem</br>
 🌺 My primary focus is **IT Governance**, but I enjoy dabbling in Front-End development from time to time. </br>
 🌺 Currently pursuing a degree in Computer Science. </br>
 🌺 Next steps: Deepening my knowledge in UX/UI Design. </br>
