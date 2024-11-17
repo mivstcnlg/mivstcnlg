@@ -1,4 +1,4 @@
-<img src="/assets/images/bannergitrb.png">
+#Hi, i'm Emelly!
 
 Welcome to my tech world, haha! Here’s a list of things about my professional life:
 
@@ -36,5 +36,3 @@ Welcome to my tech world, haha! Here’s a list of things about my professional 
 My stats:
   ![mivstcnlg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mivstcnlg&show_icons=true&theme=neon&hide_rank=true)<br/>
 </details>
-
-<img src="/assets/images/footergitrb.png">
